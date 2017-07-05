@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\mygitprojects\\github\\jtm\\jtm-techfrontier-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "E:\\mygitprojects\\github\\jtm\\jtm-techfrontier-app\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\mygitprojects\\github\\jtm\\jtm-techfrontier-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\user_default.png",
+        "source": "E:\\mygitprojects\\github\\jtm\\jtm-techfrontier-app\\app\\src\\main\\res\\drawable-xhdpi\\user_default.png"
+    },
+    {
+        "merged": "E:\\mygitprojects\\github\\jtm\\jtm-techfrontier-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ab_share.png",
+        "source": "E:\\mygitprojects\\github\\jtm\\jtm-techfrontier-app\\app\\src\\main\\res\\drawable-xhdpi\\ab_share.png"
+    },
+    {
+        "merged": "E:\\mygitprojects\\github\\jtm\\jtm-techfrontier-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\user_bg.png",
+        "source": "E:\\mygitprojects\\github\\jtm\\jtm-techfrontier-app\\app\\src\\main\\res\\drawable-xhdpi\\user_bg.png"
+    }
+]
